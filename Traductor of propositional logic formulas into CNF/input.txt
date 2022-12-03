@@ -1,0 +1,13 @@
+\documentclass[16pt]{report}
+\pagestyle{empty}                
+\begin{document}               
+ 
+                          
+\neg ((p \wedge \neg q) \wedge \neg (r \wedge s))
+
+
+
+\end{document}
+
+
+
