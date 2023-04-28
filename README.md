@@ -1,2 +1,2 @@
 # C programs
-Programs developed in C
+Programs developed in C and Thesis
